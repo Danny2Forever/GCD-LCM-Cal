@@ -1,2 +1,2 @@
-# GCD-LCM-Cal
+# GCD LCM Cal
  
